@@ -1,6 +1,6 @@
-YY哥's Page(hustcat.github.io)
+Luckpiky's Page(luckpiky.github.io)
 =================
 
-Please visit [hustcat.github.io](http://hustcat.github.io).
+Please visit [luckpiky.github.io](http://luckpiky.github.io).
 
 fork from [here](https://github.com/Yonsm/NET).
