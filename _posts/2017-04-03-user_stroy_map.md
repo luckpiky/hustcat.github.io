@@ -1,9 +1,9 @@
----
+﻿---
 layout: post
 title:  《用户故事地图》阅读笔记
 date: 2017-04-02 12:51:30
-categories: thinking
-tags: start
+categories: 敏捷
+tags: 用户故事地图
 excerpt: 《用户故事地图》阅读笔记
 ---
 
