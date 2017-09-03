@@ -1,4 +1,4 @@
-﻿---
+---
 title: 关于
 layout: page
 comments: no
@@ -10,8 +10,6 @@ comments: no
 
 网站：[{{ site.name }}]({{ site.url }})
 
-邮箱：[{{ site.email }}](mailto:{{ site.email }})
-
-GitHub：[http://github.com/{{ site.github }}](http://github.com/{{ site.github }})
+邮箱：[{{ site.email }}](mailto:{{ luckpiky@163.com }})
 
 @cnblogs：[luckpiky](http://blog.csdn.net/luckpiky)
