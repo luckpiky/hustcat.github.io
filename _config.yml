@@ -1,3 +1,4 @@
+markdown: rdiscount
 future: true
 permalink: /:title/
 url: http://luckpiky.github.io
