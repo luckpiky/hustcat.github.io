@@ -384,6 +384,7 @@ zoom:1px;
 
 .pager li {
 display:inline;
+border-bottom:1px solid #fff;
 }
 
 .pager a {
