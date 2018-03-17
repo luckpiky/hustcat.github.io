@@ -55,14 +55,20 @@ excerpt: Fortigate的用户管理认证特性。
 1. AD SSO
 ```
    查询windows server上的登陆事件，解析workstaion的名字和ip，查询域控服务器上的该用户所属的用户组。
+   设备本身支持，不依赖安装其他软件。
 ```
 2. 基于代理的SSO
-```
    Domain Controller (DC) agent
+   ![image](\assets\forti\1.png)
+   ![image](\assets\forti\2.png)
+
    eDirectory agent
+   
    Citrix/Terminal Server (TS) agent
+   ![image](\assets\forti\3.png)
+   
    Collector (CA) agent
-```
+
 3. NTLM
 4. Radius SSO
 
