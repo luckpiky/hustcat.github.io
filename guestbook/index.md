@@ -10,7 +10,7 @@ thread: 616
 <style>
 .gc-comments {font-size: 12px;}
 </style>
-<script src="http://luckpiky.github.io/github-comments/gc.js"></script>
+<script src="http://nimojs.github.io/github-comments/gc.js"></script>
 <div class="gc-comments" data-repos="luckpiky/github-comments" data-issues="1" >
     <div class="gc-comments-title">
         评论
