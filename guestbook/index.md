@@ -16,6 +16,6 @@ thread: 616
         评论
     </div>
     <div class="gc-comments-info">
-        想在此留下评论，请访问 <a href="{{issues_link}}">{{issues_link}}</a> 提交评论
+        想在此留下评论，请访问 <a href="https://github.com/luckpiky/luckpiky.github.io/issues/1">https://github.com/luckpiky/luckpiky.github.io/issues/1</a> 提交评论
     </div>
 </div>
